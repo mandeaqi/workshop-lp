@@ -80,7 +80,7 @@ const Contact = ({ data }) => {
                 />
               </div>
               <button type="submit" className="btn btn-primary">
-                Send Now Test di Sini ya Om
+                Send Now
               </button>
             </form>
           </div>
